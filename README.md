@@ -71,4 +71,3 @@ hemanthkumardm-SFAL-VSD-SoC-Journey/
 
 This repository serves as a complete documentation of my learnings and contributions during the SoC Design and Physical Design Journey. Each module provides insights, practical knowledge, and step-by-step guidance for mastering the corresponding topic.
 
-# week_2

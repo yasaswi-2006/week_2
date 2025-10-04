@@ -1,3 +1,6 @@
+# week_2
+
+
 # SFAL-VSD-SoC-Design Program 
 
 Welcome to the repository documenting my journey through the **SoC Design**. This repository contains detailed notes, project reports, and learning experiences from various stages of the VLSI design process, covering topics from tool installation to advanced SoC design and implementation.
@@ -70,4 +73,3 @@ hemanthkumardm-SFAL-VSD-SoC-Journey/
 **Summary**
 
 This repository serves as a complete documentation of my learnings and contributions during the SoC Design and Physical Design Journey. Each module provides insights, practical knowledge, and step-by-step guidance for mastering the corresponding topic.
-
